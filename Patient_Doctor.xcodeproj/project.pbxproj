@@ -10,7 +10,7 @@
 		43DBE97E1CDB9916001E314B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 43DBE97D1CDB9916001E314B /* main.m */; };
 		43DBE9861CDB9AD7001E314B /* Patient.m in Sources */ = {isa = PBXBuildFile; fileRef = 43DBE9851CDB9AD7001E314B /* Patient.m */; };
 		43DBE9891CDB9AE1001E314B /* Doctor.m in Sources */ = {isa = PBXBuildFile; fileRef = 43DBE9881CDB9AE1001E314B /* Doctor.m */; };
-		43DBE98F1CDBAD7F001E314B /* Prescription.m in Sources */ = {isa = PBXBuildFile; fileRef = 43DBE98E1CDBAD7F001E314B /* Prescription.m */; };
+		43DBE9921CDBC2F0001E314B /* Prescription.m in Sources */ = {isa = PBXBuildFile; fileRef = 43DBE9901CDBC2F0001E314B /* Prescription.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -32,8 +32,8 @@
 		43DBE9851CDB9AD7001E314B /* Patient.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Patient.m; sourceTree = "<group>"; };
 		43DBE9871CDB9AE1001E314B /* Doctor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Doctor.h; sourceTree = "<group>"; };
 		43DBE9881CDB9AE1001E314B /* Doctor.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Doctor.m; sourceTree = "<group>"; };
-		43DBE98D1CDBAD7F001E314B /* Prescription.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Prescription.h; path = ../Prescription.h; sourceTree = "<group>"; };
-		43DBE98E1CDBAD7F001E314B /* Prescription.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Prescription.m; path = ../Prescription.m; sourceTree = "<group>"; };
+		43DBE9901CDBC2F0001E314B /* Prescription.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Prescription.m; sourceTree = "<group>"; };
+		43DBE9911CDBC2F0001E314B /* Prescription.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Prescription.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,8 +71,8 @@
 				43DBE9851CDB9AD7001E314B /* Patient.m */,
 				43DBE9871CDB9AE1001E314B /* Doctor.h */,
 				43DBE9881CDB9AE1001E314B /* Doctor.m */,
-				43DBE98D1CDBAD7F001E314B /* Prescription.h */,
-				43DBE98E1CDBAD7F001E314B /* Prescription.m */,
+				43DBE9901CDBC2F0001E314B /* Prescription.m */,
+				43DBE9911CDBC2F0001E314B /* Prescription.h */,
 			);
 			path = Patient_Doctor;
 			sourceTree = "<group>";
@@ -136,7 +136,7 @@
 				43DBE97E1CDB9916001E314B /* main.m in Sources */,
 				43DBE9861CDB9AD7001E314B /* Patient.m in Sources */,
 				43DBE9891CDB9AE1001E314B /* Doctor.m in Sources */,
-				43DBE98F1CDBAD7F001E314B /* Prescription.m in Sources */,
+				43DBE9921CDBC2F0001E314B /* Prescription.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
