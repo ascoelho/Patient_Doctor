@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "F073AEA61F24C77147DCEE83D67A125E18130B07",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "E481E78759B17BCE49C8EE349ABA6494202C2E31" : 0,
+    "F073AEA61F24C77147DCEE83D67A125E18130B07" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "55FD2AAE-E74E-4538-BDB4-26FABB743CE5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "E481E78759B17BCE49C8EE349ABA6494202C2E31" : "",
+    "F073AEA61F24C77147DCEE83D67A125E18130B07" : "Patient_Doctor\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Patient_Doctor",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Patient_Doctor.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ascoelho\/c.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E481E78759B17BCE49C8EE349ABA6494202C2E31"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ascoelho\/Patient_Doctor.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F073AEA61F24C77147DCEE83D67A125E18130B07"
+    }
+  ]
+}
